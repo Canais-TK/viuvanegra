@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-name="Viuva Negra" tvg-logo="https://image.tmdb.org/t/p/w400/1olJMMIUYkV6XwET1xRIROqYkxO.jpg" group-title="Filmes | Acao",Viuva Negra
+http://dns.ligados.pro:80/movie/206845501/837791795/9430938.mp4
